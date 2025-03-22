@@ -1,1 +1,1 @@
-web: python main.py
+web: python auto_comment.py
