@@ -1,1 +1,1 @@
-web: python auto_comment.py
+worker: python auto_comment.py
